@@ -3,7 +3,7 @@
 ## 参考路线  
 1. HTML+CSS
 2. JavaScript
-3. React
+3. React(先学vue再学react)
 4. Next.js
 
 ## 参考资料  
